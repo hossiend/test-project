@@ -86,7 +86,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: orange;
+    background: rgb(234, 171, 52);
     color: black;
     font-size: 30px;
 }
