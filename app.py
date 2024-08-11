@@ -3,3 +3,4 @@ def func(x):
 
 f = func(22)
 print(f)
+print(2)
