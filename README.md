@@ -7,4 +7,4 @@ rlmgrlomgrolgortlgktrepg
 
 click [here](https://hossiend.github.io/test-project/) to see demo
 
-![end](/test-project/assets/images/katooni1.webp)
+![end](/assets/images/katooni4.webp)
